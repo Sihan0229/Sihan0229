@@ -8,8 +8,6 @@
 
 > 📌 **2025 – Present** | Ph.D. Student, Institute of Automation, Chinese Academy of Sciences  
 >    -  **Program**: Pattern Recognition and Intelligent Systems  
-
-
 >    -  **Research Focus**: Brain-inspired cognition  
 
 
