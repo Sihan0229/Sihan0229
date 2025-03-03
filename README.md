@@ -1,4 +1,22 @@
-# Hi there 👋
+# 👋 Hi there! I'm Sihan Gao  
+
+### 🎓 Education & Research Interests  
+
+> 📌 **2019 – 2025** | Gifted Program Student, Xi’an Jiaotong University  
+>    -  **Major**: Automation  
+>    -  **Minor**: Electrical Engineering  
+
+> 📌 **2025 – Present** | Ph.D. Student, Institute of Automation, Chinese Academy of Sciences  
+>    -  **Program**: Pattern Recognition and Intelligent Systems  
+
+
+>    -  **Research Focus**: Brain-inspired cognition  
+
+
+### 🌟 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)]([https://github.com/your-github](https://github.com/Sihan0229)) 
+[![CASIA Email](https://img.shields.io/badge/CASIA%20Email-0057B7?style=flat-square&logo=gmail&logoColor=white)](mailto:gaosihan2025@ia.ac.cn)
+[![Gmail](https://img.shields.io/badge/Gmail-006400?style=flat-square&logo=gmail&logoColor=white)](mailto:sihangao2004@gmail.com)    
 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
