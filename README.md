@@ -7,7 +7,7 @@
 >    -  **Minor**: Electrical Engineering  
 
 > 📌 **2025 – Present** | Ph.D. Student, Institute of Automation, Chinese Academy of Sciences  
->    -  **Program**: Pattern Recognition and Intelligent Systems   
+>    -  **Program**: Pattern Recognition   
 
 
 ### 🌟 Connect with Me  
@@ -18,7 +18,7 @@
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="width: 50%; text-align: center; border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Sihan0229&show_icons=true&include_all_commits=true&hide=contribs,prs&title_color=006400&text_color=006400&icon_color=006400" alt="Sihan0229's GitHub stats" style="height: 200px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Sihan0229&show_icons=true&include_all_commits=true&hide=contribs&title_color=006400&text_color=006400&icon_color=006400" alt="Sihan0229's GitHub stats" style="height: 200px;">
     </td>
    
   </tr> 
