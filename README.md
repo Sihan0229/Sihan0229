@@ -1,6 +1,5 @@
 # 👋 Hi there! I'm Sihan Gao  
 
-
 ### 🎓 Education & Research Interests   
 
 > 📌 **2019 – 2025** | Gifted Program Student, Xi’an Jiaotong University  
