@@ -20,4 +20,4 @@
 
 [![Sihan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sihan0229&show_icons=true&include_all_commits=true&locale=en&hide_border=true&border_radius=25%&theme=default&hide=contribs&title_color=006400&text_color=006400&icon_color=006400)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-
+[![Sihan's Language](https://github-readme-stats-be24.vercel.app/api/top-langs/?username=Sihan0229&langs_count=10&theme=default&count_private=true&hide_border=true&layout=compact&count_weight=0.5&title_color=006400&text_color=006400&icon_color=006400)](https://github.com/anuraghazra/github-readme-stats) 
