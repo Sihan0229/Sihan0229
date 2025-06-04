@@ -4,8 +4,8 @@
 
 > 📌 **2019 – 2025** | Gifted Program Student, Xi’an Jiaotong University  
 
->    -  **Major**: Automation   
->    -  **Minor**: Electrical Engineering   
+>    -  **Major**: Automation – focused on medical image processing, including histopathological stain normalization and multimodal diagnosis of endometrial carcinoma 
+>    -  **Minor**: Electrical Engineering – engaged in transformer fault diagnosis based on dissolved gas analysis (DGA) in insulating oil
 
 > 📌 **2025 – Present** | Ph.D. Student, Institute of Automation, Chinese Academy of Sciences  
 
