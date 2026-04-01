@@ -18,4 +18,4 @@
 ### 📚 My Blogs   
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Blog-24292F?style=flat-square&logo=github&logoColor=white)](https://sihan0229.github.io/)  [![CSDN](https://img.shields.io/badge/CSDN-BF0A30?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/GabrielleGao?spm=1010.2135.3001.5343) 
 
-[![Sihan's Stats](https://github-readme-stats.vercel.app/api?username=Sihan0229&show_icons=true&hide=contribs,prs&title_color=006400&text_color=006400&icon_color=006400&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Sihan's Stats](https://github-readme-stats.vercel.app/api?username=Sihan0229&show_icons=true&hide=contribs&title_color=006400&text_color=006400&icon_color=006400&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
